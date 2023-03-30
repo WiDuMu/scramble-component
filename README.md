@@ -1,7 +1,7 @@
 # scramble-component
 A [webcomponent](https://developer.mozilla.org/en-US/docs/Web/Web_Components) that tries to recreate the 'hacker' descrambling text effect.
 
-A live demo of this can be found at.
+A live demo of this can be found at <https://widumu.github.io/scramble-component/>.
 
 It has the following attributes:
 * `content`: A string of text it will descramble into
