@@ -1,0 +1,10 @@
+{
+    "name": "scramble-component",
+    "version": "1.0.0",
+    "description": "A webcomponent that scambles text to create a 'hacker' effect.",
+    "homepage": "https://github.com/WiDuMu/scramble-component",
+    "license": "MIT",
+    "dependencies": {
+        "typescript": "^5.0.2"
+    }
+}
